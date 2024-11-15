@@ -49,7 +49,7 @@ Program terdiri dari dua komponen utama:
      * Nilai UTS
      * Nilai UAS
 
-<img src="/hasil input.png" width="500">
+<img src="/Input.png" width="500">
 
    - Data divalidasi untuk memastikan format yang benar
 
@@ -102,7 +102,7 @@ Program terdiri dari dua komponen utama:
 
 ## Contoh Output
 
-<img src="/hasil output.png" width="500">
+<img src="/Output.png" width="500">
 
 
 
